@@ -54,3 +54,4 @@ To use the real-time hand sign language detection model, follow these steps:
 2. Install the required dependencies (OpenCV, Mediapipe, TensorFlow, Matplotlib).
 3. Run the provided scripts to capture and process real-time video streams.
 
+![WhatsApp Video 2024-01-28 at 02 58 35_b89b4869](https://github.com/Taha0229/realtime-sign-lang-detection/assets/113607983/9ee61584-5e15-4c64-abe1-cece1e55e1af)
